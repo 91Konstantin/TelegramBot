@@ -1,0 +1,3 @@
+pip==21.2.4
+pyTelegramBotAPI==4.4.0
+suds==1.0.0
